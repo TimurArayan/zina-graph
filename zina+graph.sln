@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zina+graph", "zina+graph\zina+graph.csproj", "{388938CF-CD99-4294-ABCA-0A2261919A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grraph", "grraph\grraph.csproj", "{987D5006-EC6E-48E7-AC05-7B9D968D730A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388938CF-CD99-4294-ABCA-0A2261919A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388938CF-CD99-4294-ABCA-0A2261919A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388938CF-CD99-4294-ABCA-0A2261919A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388938CF-CD99-4294-ABCA-0A2261919A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987D5006-EC6E-48E7-AC05-7B9D968D730A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987D5006-EC6E-48E7-AC05-7B9D968D730A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987D5006-EC6E-48E7-AC05-7B9D968D730A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987D5006-EC6E-48E7-AC05-7B9D968D730A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCB081B-CBF2-48C7-8CB5-6CC8ECEDE60B}
+	EndGlobalSection
+EndGlobal
